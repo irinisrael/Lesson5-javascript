@@ -1,7 +1,7 @@
-var A = 11
-var K = 10
-var Q = 10
-var J = 10
+var a = 11
+var k = 10
+var q = 10
+var j = 10
 
 function blackjack(card1, card2) {
 	var sum = card1 + card2;
@@ -12,4 +12,4 @@ function blackjack(card1, card2) {
 		}
 }
 
-blackjack(A, 10);
+blackjack(a, 10);
